@@ -13,7 +13,7 @@ A production-grade live streaming platform built with **NestJS + TypeScript** (b
 ```
 Backend:  NestJS + TypeScript + Prisma ORM + PostgreSQL + Socket.io
 Frontend: React + Vite + HLS.js + Socket.io-client
-Streaming: Nginx RTMP → HLS playback
+Streaming: Nginx RTMP → HLS (HTTP) playback
 ```
 
 ### Design Patterns Implemented
